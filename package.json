@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev":  "next dev -H 0.0.0.0",
-    "build":  "next build",
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
     "prettier": "prettier -write .",
     "lint": "next lint"
   },
@@ -12,17 +12,17 @@
   "author": "Simon-Mark-Exley<simonmarkexley@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@chakra-ui/react": "^2.3.6",
+    "@chakra-ui/react": "^2.3.7",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
-    "framer-motion": "^7.6.2",
-    "next": "^13.0.0",
+    "framer-motion": "^7.6.4",
+    "next": "^13.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "eslint": "^8.26.0",
-    "eslint-config-next": "^13.0.0",
+    "eslint-config-next": "^13.0.1",
     "prettier": "^2.7.1"
   }
 }
